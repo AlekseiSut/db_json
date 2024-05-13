@@ -1,0 +1,29 @@
+{
+  "services": [
+    {
+      "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": "Web Development",
+      "description": "We offer professional web development services, crafting beautiful and functional websites tailored to your business needs."
+    },
+    {
+      "image": "https://images.pexels.com/photos/3045245/pexels-photo-3045245.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": "Graphic Design",
+      "description": "Our graphic design team creates stunning visuals that captivate your audience and elevate your brand identity."
+    },
+    {
+      "image": "https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": "Mobile App Development",
+      "description": "Transform your ideas into reality with our custom mobile app development services, designed for optimal performance and user experience."
+    },
+    {
+      "image": "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": "Digital Marketing",
+      "description": "Boost your online presence and reach your target audience effectively with our comprehensive digital marketing strategies."
+    },
+    {
+      "image": "https://images.pexels.com/photos/256514/pexels-photo-256514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": "Content Writing",
+      "description": "Engage your audience with compelling content that tells your brand's story and drives meaningful connections."
+    }
+  ]
+}
